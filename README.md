@@ -2,7 +2,7 @@
 
 This was a project I decided to take on to work a little bit with classes in kotlin.
 
-This program resembles a combat system similar one to on RuneScape. It's not neraly as complex but it was a fun little project. As RuneScape was something I 
+This program resembles a combat system similar one to on RuneScape. It's not nearly as complex but it was a fun little project. As RuneScape was something I 
 loved to play as a kid.
 
 My purpose for the software was really just to help improve my ability in kotlin.
