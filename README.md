@@ -18,7 +18,6 @@ Kotlin was the language that I used to develop this program.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [JetBrains](https://www.jetbrains.com/idea/)
 * [Kotlin Tutorials](https://www.w3adda.com/kotlin-tutorial)
 
